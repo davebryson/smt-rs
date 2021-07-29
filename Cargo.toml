@@ -1,0 +1,13 @@
+[package]
+name = "smt"
+version = "0.1.0"
+authors = ["David Bryson"]
+edition = "2018"
+
+
+[dependencies]
+anyhow = "1.0.40"
+blake2 = "0.9.1"
+
+[dev-dependencies]
+rand = "0.8.4"
